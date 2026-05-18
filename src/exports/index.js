@@ -1,0 +1,10 @@
+export { default as Header } from '../components/Header';
+export { default as Hero } from '../components/Hero.jsx';
+export { default as About } from '../components/About.jsx';
+export { default as Benefits } from '../components/Benefits.jsx';
+export { default as Integrations } from '../components/Integrations.jsx';
+export { default as Footer } from '../components/Footer.jsx';
+export { default as Pricing } from '../components/Pricing.jsx';
+export { default as Testimonials } from '../components/Testimonials.jsx';
+export { default as Faqs } from '../components/Faqs.jsx';
+export { default as CTA } from '../components/CTA.jsx';
