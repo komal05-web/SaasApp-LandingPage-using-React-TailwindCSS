@@ -3,7 +3,7 @@
 A responsive landing page for an HR SaaS platform built with React and Tailwind CSS.
 
 ## 🚀 Live Demo
-[View Live](https://komal05-web.github.io/SaasApp-LandingPage-using-React-TailwindCSS)
+[View Live](https://shoresaasapplandingpage.netlify.app/)
 
 ## ⚙️ Getting Started
 
